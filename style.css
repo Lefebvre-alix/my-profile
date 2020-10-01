@@ -1,0 +1,37 @@
+h1{
+	color: #503363;
+	font-size: 60px;
+	font-family: Assistant;
+
+
+
+}
+
+
+h2 {
+  color: #D3A0D9;
+	font-size: 30px;
+	font-family: Impact,Charcoal,sans-serif;
+}
+body {
+  color: rgb(195,170,212);     /* Text color */
+	background-color: #3C0139;  /* Background color */
+}
+
+#logo
+{width: 370px}
+#logo
+{ border-radius: 50%;}
+#logo
+{  border: 10px solid black;}
+
+#logo1
+{width: 200px}
+#logo1
+{border-radius:50%;}
+@media (max-width: 500px) {
+
+  .container {
+    width: 300px;
+  }
+}
